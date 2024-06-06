@@ -1,3 +1,7 @@
+// D1009448
+// Okubor Mesal Chukwueku
+// cmp2307624
+
 #include <stdio.h> // Include standard input-output header file
 
 int main() {
